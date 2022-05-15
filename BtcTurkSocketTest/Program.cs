@@ -20,8 +20,8 @@ namespace BtcTurkSocketTest
 
             long nonce = 3000;
 
-            string publicKey = "eb00babe-7af5-4479-92ea-eb44a268f44a";
-            string privateKey = "zaPPMCJIpCdGmSIyOY444udQMOGcUgcG";
+            string publicKey = "";
+            string privateKey = "";
 
             string baseString = $"{publicKey}{nonce}";
 
